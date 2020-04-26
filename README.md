@@ -6,3 +6,6 @@
 
 ## SSL
 [SSL Server Test](https://www.ssllabs.com/ssltest/)
+
+## Miscellaneous
+[MIME Types](https://mimetype.io/)
