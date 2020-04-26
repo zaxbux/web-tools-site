@@ -3,3 +3,6 @@
 
 ## DNS
 [DNS Propagation Checker](https://dnsmap.io/)
+
+## SSL
+[SSL Server Test](https://www.ssllabs.com/ssltest/)
