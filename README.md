@@ -9,9 +9,13 @@
 
 ---
 
-### Google
+## Google
 
 [Report Sites to Google Safe Browsing](https://support.google.com/websearch/contact/safe_browsing)
+
+## Email
+
+[ImprovMX](https://improvmx.com/) - Free email forwarding
 
 ## DNS
 [DNS Propagation Checker](https://dnsmap.io/)
@@ -21,3 +25,7 @@
 
 ## Miscellaneous
 [MIME Types](https://mimetype.io/)
+
+---
+
+Any links on this website are for informational purposes only and are not affiliated with this site. Additionally, there are no sponsorhips or endorsements between this site and the entities that are linked to, and vice versa.
