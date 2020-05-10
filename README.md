@@ -13,6 +13,10 @@
 
 [Report Sites to Google Safe Browsing](https://support.google.com/websearch/contact/safe_browsing)
 
+## Facebook
+
+[Sharing Debugger](https://developers.facebook.com/tools/debug/)
+
 ## Email
 
 [ImprovMX](https://improvmx.com/) - Free email forwarding
