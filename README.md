@@ -13,6 +13,8 @@
 
 [Report Sites to Google Safe Browsing](https://support.google.com/websearch/contact/safe_browsing)
 
+[Check MX Tool](https://toolbox.googleapps.com/apps/checkmx/)
+
 ## Facebook
 
 [Sharing Debugger](https://developers.facebook.com/tools/debug/)
