@@ -29,6 +29,10 @@
 ## SSL
 [SSL Server Test](https://www.ssllabs.com/ssltest/)
 
+## Speed
+
+[What Does My Site Cost](https://whatdoesmysitecost.com)
+
 ## Miscellaneous
 [MIME Types](https://mimetype.io/)
 
